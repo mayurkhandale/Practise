@@ -1,0 +1,57 @@
+.container-fluid{
+	background-image: url("Images/banner2.jpg");
+	height: 600px;
+}
+
+.reassess{
+	margin-left: 30px;
+	margin-left: 750px;
+	padding: 55px;
+}
+
+.report{
+	margin-left: 30px;
+}
+.opt-logo{
+	width: 85px;
+}
+
+.monitor-logo{
+	width: 85px;
+}
+.secure-logo{
+	width: 85px;
+}
+
+.cloud-logo{
+	width: 300px;
+
+}
+/* ----------------optimize images*/
+.optm-img{
+	box-shadow :0 0 9px red;
+	margin-top: -50px; 
+}
+
+/* unravel section */
+.container ,.unravel-section{
+	margin: 40px;
+}
+
+.assess-concept{
+	width: 300px;
+}
+
+/* -------------------laptop image ------------*/
+.laptop-img{
+	width: 300px;
+}
+
+/*-------------------- input field -----------------*/
+.row .input-text{
+	display: block;
+	width: 100%;
+	height:36px;
+	border-width: 0 0 2px 0;
+
+}
